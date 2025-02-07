@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cd ./proxy && npm run build-all && cd ..",
-   "install": "cd ./proxy && npm install && npm run install-all && cd .."
+    "build": "cd ./node-xmcloud-proxy && npm run build-all && cd ..",
+   "install": "cd ./node-xmcloud-proxy && npm install && npm run install-all && cd .."
   },
   "author": "",
   "license": "ISC",
